@@ -1,0 +1,10 @@
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - mlflow
+      - scikit-learn
+      - pandas
+      - fastapi
+      - uvicorn
+      - pytest
